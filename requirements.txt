@@ -1,7 +1,9 @@
 streamlit
 requests
 python-dotenv
+pillow
+openai
+elevenlabs
 speechrecognition
 pydub
-pillow
 gtts
