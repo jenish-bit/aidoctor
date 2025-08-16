@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+speechrecognition
+pydub
+pillow
+gtts
